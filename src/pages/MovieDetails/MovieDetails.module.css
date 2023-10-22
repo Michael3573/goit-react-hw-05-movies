@@ -1,0 +1,48 @@
+.btnGoBack {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 17px;
+  padding: 10px 20px 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 25px;
+  background: rgb(195, 40, 34);
+  background: linear-gradient(
+    180deg,
+    rgba(195, 40, 34, 1) 0%,
+    rgba(253, 203, 45, 1) 71%,
+    rgba(253, 203, 45, 1) 83%
+  );
+}
+
+.btnGoBack:hover {
+  background: rgb(195, 40, 34);
+}
+
+.movieCast {
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+  margin-left: 35px;
+  margin-right: 35px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.movieRev {
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+}
+
+.movieText {
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 15px;
+  margin-bottom: 25px;
+  margin-left: 30px;
+}
+
+.nav {
+  border-bottom: solid 1px;
+  width: 500px;
+}

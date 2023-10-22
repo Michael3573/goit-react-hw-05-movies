@@ -1,0 +1,52 @@
+.titleMovie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 300px;
+  border-radius: 5px;
+  margin-right: auto;
+  background: rgb(195, 40, 34);
+  background: linear-gradient(
+    180deg,
+    rgba(195, 40, 34, 1) 0%,
+    rgba(253, 203, 45, 1) 71%,
+    rgba(253, 203, 45, 1) 83%
+  );
+}
+
+.titleMovieText {
+  text-align: center;
+  margin: 0;
+}
+
+.info {
+  display: block;
+  margin-left: 25px;
+}
+
+.ItemOver {
+  width: 500px;
+}
+
+.movieCard {
+  display: flex;
+}
+
+.movieImg {
+  margin-top: 20px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.movieUser {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.itemGen {
+  margin-top: 10px;
+}

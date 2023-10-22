@@ -1,0 +1,35 @@
+.cardWrapper {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 20px;
+  list-style: none;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.container {
+  width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cardItem {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 5px;
+}
+
+.cardItem img {
+  width: 100%;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.cardName {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+
+.cardChar {
+  padding-bottom: 15px;
+  padding-left: 15px;
+}

@@ -1,0 +1,27 @@
+.navHome {
+  padding: 25px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+  background: rgb(195, 40, 34);
+  background: linear-gradient(
+    0deg,
+    rgba(195, 40, 34, 1) 0%,
+    rgba(253, 203, 45, 1) 71%,
+    rgba(253, 203, 45, 1) 83%
+  );
+}
+
+.linkHome {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-right: 15px;
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+}
+
+.linkMovies {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+}
